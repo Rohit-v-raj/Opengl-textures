@@ -890,9 +890,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="res\textures\Rohit V Raj_Na19B057.jpeg">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="res\textures\LogoMakr-7gtZW5 - Copy.png">
       <Filter>Resource Files</Filter>
     </Image>
